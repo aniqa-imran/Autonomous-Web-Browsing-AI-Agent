@@ -37,6 +37,7 @@ Install the required Python packages:
 
 pip install streamlit google-generativeai duckduckgo-search
 4. Run the Application
+python -m streamlit run app.py
 Start the Streamlit development server:
 
 streamlit run app.py
