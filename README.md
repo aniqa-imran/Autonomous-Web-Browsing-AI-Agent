@@ -50,12 +50,12 @@ Click on Get API Key and then Create API Key.
 
 Copy the generated key and paste it into the Configuration Sidebar inside the app.
 
-💡 Example Queries to Test
+# 💡 Example Queries to Test
 🌤️ "What is the current weather forecast for Lahore today?"
 
 📰 "What are the top 3 latest tech or AI news stories from this week?"
 
 🏏 "Who won the latest cricket match yesterday and what was the score?"
 
-📝 License
+# 📝 License
 This project is licensed under the MIT License - feel free to use and modify it.
